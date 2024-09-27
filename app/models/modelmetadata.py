@@ -10,6 +10,8 @@ class ModelMetadata(db.Model):
     accuracy = db.Column(db.Float)
     s3_url = db.Column(db.String(255), nullable=False)
     merkle_root = db.Column(db.String(64), nullable=False)
+    change_log = db.Column(db.Text)
+    deprecated = db.Column(db.Boolean, default=False)
     upload_date = db.Column(db.DateTime, default=db.func.current_timestamp())
 
     # Define a composite unique constraint for model_name and version
@@ -25,5 +27,7 @@ class ModelMetadata(db.Model):
             'accuracy': self.accuracy,
             's3_url': self.s3_url,
             'merkle_root': self.merkle_root,
-            'upload_date': self.upload_date
+            'change_log': self.change_log,
+            'deprecated': self.deprecated,
+            'upload_date': self.upload_date,
         }
