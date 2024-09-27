@@ -1,0 +1,190 @@
+Left child: Resources: https://gitlab.com/nanuchi/it-beginners-course/
+
+ 1 - Welcome & Course Overview
+ 2 - Curriculum 
+ 3 - How to Access Course Resources 
+ 1 - Software Development Workflow 
+ 2 - What is Agile and Scrum 
+ 3 - Backlog and Scrum Board in Jira 
+ 1 - Chapter Intro 
+ 2 - How Websites Work 
+ 3 - What is JS
+ 4 - Variables & Data Types 
+ 5 - How to Execute JS 
+ 6 - Conditionals & Comparators 
+ 7 - Objects 
+ 8 - Arrays 
+ 9 - Loops 
+ 10 - Functions 
+ 11 - Built-in Functions 
+ 12 - Intro to HTML & CSS 
+ 13 - HTML 
+ 14 - CSS 
+ 15 - HTML head tags 
+ 16 - Website with HTML | Hash: 4b24d9845724070e7adf00087e6713928e930bf7e87e6f0a3751887fac988338
+Right child:  CSS & JS 
+ 1 - Chapter Intro 
+ 2 - Develop Teamable Demo App with HTML | Hash: dc19cec665715fa9a475dfe313e4ba0b3b3b4ce3299b14f4a3a995456a54cfe8
+Parent (concatenation of Resources: https://gitlab.com/nanuchi/it-beginners-course/
+
+ 1 - Welcome & Course Overview
+ 2 - Curriculum 
+ 3 - How to Access Course Resources 
+ 1 - Software Development Workflow 
+ 2 - What is Agile and Scrum 
+ 3 - Backlog and Scrum Board in Jira 
+ 1 - Chapter Intro 
+ 2 - How Websites Work 
+ 3 - What is JS
+ 4 - Variables & Data Types 
+ 5 - How to Execute JS 
+ 6 - Conditionals & Comparators 
+ 7 - Objects 
+ 8 - Arrays 
+ 9 - Loops 
+ 10 - Functions 
+ 11 - Built-in Functions 
+ 12 - Intro to HTML & CSS 
+ 13 - HTML 
+ 14 - CSS 
+ 15 - HTML head tags 
+ 16 - Website with HTML and  CSS & JS 
+ 1 - Chapter Intro 
+ 2 - Develop Teamable Demo App with HTML): 4b24d9845724070e7adf00087e6713928e930bf7e87e6f0a3751887fac988338dc19cec665715fa9a475dfe313e4ba0b3b3b4ce3299b14f4a3a995456a54cfe8 | Hash: 4e4de760810554f278707a7d284f271d76e3674be08cb6117c1b6fd5e7ffebd0
+Left child:  CSS and JS 
+ 3 - JS Frameworks 
+ 4 - Maintaining JS Frameworks 
+ 5 - Open Source Explained 
+ 6 - Libraries Explained 
+ 7 - npm Registry 
+ 8 - Versioning in Software Development Explained
+ 9 - How to Use Libraries in JS Application 
+ 10 - npm CLI 
+ 11 - Command Line Interface & Operating System Basics Explained
+ 12 - Install npm on MacOS 
+ 13 - Install npm on Windows 
+ 14 - Install JS Libraries with npm
+ 1 - Chapter Intro 
+ 2 - VueJS Tutorial Part 1 
+ 3 - VueJS Tutorial Part 2 
+ 4 - Implement Frontend with HTML | Hash: 073b7fb22bbb9b2a509d0d41f710c4533378478fc7587494c38c520695cc50ed
+Right child:  CSS & VueJS Part 1 
+ 5 - Implement Frontend with HTML | Hash: 0a107d92269402b99463c049a667f9fbf2ac5982eb6f169c5db5838933301100
+Parent (concatenation of  CSS and JS 
+ 3 - JS Frameworks 
+ 4 - Maintaining JS Frameworks 
+ 5 - Open Source Explained 
+ 6 - Libraries Explained 
+ 7 - npm Registry 
+ 8 - Versioning in Software Development Explained
+ 9 - How to Use Libraries in JS Application 
+ 10 - npm CLI 
+ 11 - Command Line Interface & Operating System Basics Explained
+ 12 - Install npm on MacOS 
+ 13 - Install npm on Windows 
+ 14 - Install JS Libraries with npm
+ 1 - Chapter Intro 
+ 2 - VueJS Tutorial Part 1 
+ 3 - VueJS Tutorial Part 2 
+ 4 - Implement Frontend with HTML and  CSS & VueJS Part 1 
+ 5 - Implement Frontend with HTML): 073b7fb22bbb9b2a509d0d41f710c4533378478fc7587494c38c520695cc50ed0a107d92269402b99463c049a667f9fbf2ac5982eb6f169c5db5838933301100 | Hash: 33089ad8ccfa88f3b704a1238b63dbdb7ce1f5e0536a16ef46ee0d2e2461e480
+Left child:  CSS & VueJS Part 2 
+ 1 - Frontend Backend Communication Explained
+ 2 - NodeJS Tutorial 
+ 3 - Example Frontend Application for NodeJS 
+ 4 - HTTP | Hash: 1edfd2c68510d845e0057117ce9e1207542e5ad5544715e1c34045c3cd6c153b
+Right child:  URL & IP Addresses Explained 
+ 5 - Implement Web Server with NodeJS 
+ 6 - JSON Explained 
+ 7 - Implement Data Exchange Between Frontend & Backend
+ 8 - Implement Teamable Application Backend with NodeJS 
+ 1 - Chapter Intro 
+ 2 - Databases Explained 
+ 3 - Database Types and Their Usages Explained
+ 4 - MongoDB Database | Hash: e5517598969ccc22734b1693921a8daf2fdcc4d46279fb63e9139b0a4d155b58
+Parent (concatenation of  CSS & VueJS Part 2 
+ 1 - Frontend Backend Communication Explained
+ 2 - NodeJS Tutorial 
+ 3 - Example Frontend Application for NodeJS 
+ 4 - HTTP and  URL & IP Addresses Explained 
+ 5 - Implement Web Server with NodeJS 
+ 6 - JSON Explained 
+ 7 - Implement Data Exchange Between Frontend & Backend
+ 8 - Implement Teamable Application Backend with NodeJS 
+ 1 - Chapter Intro 
+ 2 - Databases Explained 
+ 3 - Database Types and Their Usages Explained
+ 4 - MongoDB Database): 1edfd2c68510d845e0057117ce9e1207542e5ad5544715e1c34045c3cd6c153be5517598969ccc22734b1693921a8daf2fdcc4d46279fb63e9139b0a4d155b58 | Hash: 846f3f445b8d9815739402572b7216d8fd2e91c4a214f6b47a6f57843a48a028
+Left child: 4b24d9845724070e7adf00087e6713928e930bf7e87e6f0a3751887fac988338dc19cec665715fa9a475dfe313e4ba0b3b3b4ce3299b14f4a3a995456a54cfe8 | Hash: 4e4de760810554f278707a7d284f271d76e3674be08cb6117c1b6fd5e7ffebd0
+Right child: 073b7fb22bbb9b2a509d0d41f710c4533378478fc7587494c38c520695cc50ed0a107d92269402b99463c049a667f9fbf2ac5982eb6f169c5db5838933301100 | Hash: 33089ad8ccfa88f3b704a1238b63dbdb7ce1f5e0536a16ef46ee0d2e2461e480
+Parent (concatenation of 4b24d9845724070e7adf00087e6713928e930bf7e87e6f0a3751887fac988338dc19cec665715fa9a475dfe313e4ba0b3b3b4ce3299b14f4a3a995456a54cfe8 and 073b7fb22bbb9b2a509d0d41f710c4533378478fc7587494c38c520695cc50ed0a107d92269402b99463c049a667f9fbf2ac5982eb6f169c5db5838933301100): 4e4de760810554f278707a7d284f271d76e3674be08cb6117c1b6fd5e7ffebd033089ad8ccfa88f3b704a1238b63dbdb7ce1f5e0536a16ef46ee0d2e2461e480 | Hash: 631244664068ac26f9f5c8009be1a315ed3137b13ff057c3eab9eabd401c95be
+Left child: 1edfd2c68510d845e0057117ce9e1207542e5ad5544715e1c34045c3cd6c153be5517598969ccc22734b1693921a8daf2fdcc4d46279fb63e9139b0a4d155b58 | Hash: 846f3f445b8d9815739402572b7216d8fd2e91c4a214f6b47a6f57843a48a028
+Right child:  SQL vs NoSQL 
+ 5 - General Guide to Installing Tools on OS 
+ 6 - Install MongoDB on MacOS 
+ 7 - Install MongoDB on Windows 
+ 8 - General Guide to Connecting Applications to Database 
+ 9 - Connect Teamable Backend to MongoDB Part 1 
+ 10 - Connect Teamable Backend to MongoDB Part 2 
+ 1 - Chapter Intro 
+ 2 - Test Automation Explained
+ 3 - Automated Test Types Explained
+ 4 - Write Unit Tests in Jest for Teamable app 
+ 5 - Write Integration Tests in Jest for Teamable app 
+ 1 - Chapter Intro 
+ 2 - Build & Package Teamable Application 
+ 3 - Running Application from Package/Artifact 
+ 1 - Chapter Intro
+ 2 - Server Basics Explained
+ 3 - Systems Administrator Role Explained 
+ 4 - Create Linux Ubuntu Server on Cloud 
+ 5 - SSH into Cloud Server from MacOS 
+ 6 - SSH into Cloud Server from Windows
+ 7 - Secure Server with Firewall 
+ 8 - Configure Linux Ubuntu Server 
+ 9 - Deploy Application on Linux Server 
+ 10 - Deployment Stages Explained 
+ 11 - Development & Deployment Workflow Explained 
+ 1 - Complete Sprint in Jira 
+ 2 - Secure MongoDB Database Access 
+ 3 - Configure Database Access with Credentials in Backend Application 
+ 4 - Configure Access to Environment Variables in Backend Application 
+ 1 - Next Steps - Where to go from here? 
+
+Visit: FreeCoursesOnline.Me | Hash: 444e2c38510961a30aff7405b3c5b8c026547cb853c4d191f54ea071548af1d1
+Parent (concatenation of 1edfd2c68510d845e0057117ce9e1207542e5ad5544715e1c34045c3cd6c153be5517598969ccc22734b1693921a8daf2fdcc4d46279fb63e9139b0a4d155b58 and  SQL vs NoSQL 
+ 5 - General Guide to Installing Tools on OS 
+ 6 - Install MongoDB on MacOS 
+ 7 - Install MongoDB on Windows 
+ 8 - General Guide to Connecting Applications to Database 
+ 9 - Connect Teamable Backend to MongoDB Part 1 
+ 10 - Connect Teamable Backend to MongoDB Part 2 
+ 1 - Chapter Intro 
+ 2 - Test Automation Explained
+ 3 - Automated Test Types Explained
+ 4 - Write Unit Tests in Jest for Teamable app 
+ 5 - Write Integration Tests in Jest for Teamable app 
+ 1 - Chapter Intro 
+ 2 - Build & Package Teamable Application 
+ 3 - Running Application from Package/Artifact 
+ 1 - Chapter Intro
+ 2 - Server Basics Explained
+ 3 - Systems Administrator Role Explained 
+ 4 - Create Linux Ubuntu Server on Cloud 
+ 5 - SSH into Cloud Server from MacOS 
+ 6 - SSH into Cloud Server from Windows
+ 7 - Secure Server with Firewall 
+ 8 - Configure Linux Ubuntu Server 
+ 9 - Deploy Application on Linux Server 
+ 10 - Deployment Stages Explained 
+ 11 - Development & Deployment Workflow Explained 
+ 1 - Complete Sprint in Jira 
+ 2 - Secure MongoDB Database Access 
+ 3 - Configure Database Access with Credentials in Backend Application 
+ 4 - Configure Access to Environment Variables in Backend Application 
+ 1 - Next Steps - Where to go from here? 
+
+Visit: FreeCoursesOnline.Me): 846f3f445b8d9815739402572b7216d8fd2e91c4a214f6b47a6f57843a48a028444e2c38510961a30aff7405b3c5b8c026547cb853c4d191f54ea071548af1d1 | Hash: c065870d7e370c0c6566aeb6b67dddfb2af72f4f0b4251c468722c58a704a416
+Left child: 4e4de760810554f278707a7d284f271d76e3674be08cb6117c1b6fd5e7ffebd033089ad8ccfa88f3b704a1238b63dbdb7ce1f5e0536a16ef46ee0d2e2461e480 | Hash: 631244664068ac26f9f5c8009be1a315ed3137b13ff057c3eab9eabd401c95be
+Right child: 846f3f445b8d9815739402572b7216d8fd2e91c4a214f6b47a6f57843a48a028444e2c38510961a30aff7405b3c5b8c026547cb853c4d191f54ea071548af1d1 | Hash: c065870d7e370c0c6566aeb6b67dddfb2af72f4f0b4251c468722c58a704a416
+Parent (concatenation of 4e4de760810554f278707a7d284f271d76e3674be08cb6117c1b6fd5e7ffebd033089ad8ccfa88f3b704a1238b63dbdb7ce1f5e0536a16ef46ee0d2e2461e480 and 846f3f445b8d9815739402572b7216d8fd2e91c4a214f6b47a6f57843a48a028444e2c38510961a30aff7405b3c5b8c026547cb853c4d191f54ea071548af1d1): 631244664068ac26f9f5c8009be1a315ed3137b13ff057c3eab9eabd401c95bec065870d7e370c0c6566aeb6b67dddfb2af72f4f0b4251c468722c58a704a416 | Hash: cffa376f4e579733db3a79fc26dde792edcf05871e77b22dc49dc2dd76921e17

@@ -1,0 +1,87 @@
+Resources: https://gitlab.com/nanuchi/it-beginners-course/
+
+ 1 - Welcome & Course Overview
+ 2 - Curriculum 
+ 3 - How to Access Course Resources 
+ 1 - Software Development Workflow 
+ 2 - What is Agile and Scrum 
+ 3 - Backlog and Scrum Board in Jira 
+ 1 - Chapter Intro 
+ 2 - How Websites Work 
+ 3 - What is JS
+ 4 - Variables & Data Types 
+ 5 - How to Execute JS 
+ 6 - Conditionals & Comparators 
+ 7 - Objects 
+ 8 - Arrays 
+ 9 - Loops 
+ 10 - Functions 
+ 11 - Built-in Functions 
+ 12 - Intro to HTML & CSS 
+ 13 - HTML 
+ 14 - CSS 
+ 15 - HTML head tags 
+ 16 - Website with HTML, CSS & JS 
+ 1 - Chapter Intro 
+ 2 - Develop Teamable Demo App with HTML, CSS and JS 
+ 3 - JS Frameworks 
+ 4 - Maintaining JS Frameworks 
+ 5 - Open Source Explained 
+ 6 - Libraries Explained 
+ 7 - npm Registry 
+ 8 - Versioning in Software Development Explained
+ 9 - How to Use Libraries in JS Application 
+ 10 - npm CLI 
+ 11 - Command Line Interface & Operating System Basics Explained
+ 12 - Install npm on MacOS 
+ 13 - Install npm on Windows 
+ 14 - Install JS Libraries with npm
+ 1 - Chapter Intro 
+ 2 - VueJS Tutorial Part 1 
+ 3 - VueJS Tutorial Part 2 
+ 4 - Implement Frontend with HTML, CSS & VueJS Part 1 
+ 5 - Implement Frontend with HTML, CSS & VueJS Part 2 
+ 1 - Frontend Backend Communication Explained
+ 2 - NodeJS Tutorial 
+ 3 - Example Frontend Application for NodeJS 
+ 4 - HTTP, URL & IP Addresses Explained 
+ 5 - Implement Web Server with NodeJS 
+ 6 - JSON Explained 
+ 7 - Implement Data Exchange Between Frontend & Backend
+ 8 - Implement Teamable Application Backend with NodeJS 
+ 1 - Chapter Intro 
+ 2 - Databases Explained 
+ 3 - Database Types and Their Usages Explained
+ 4 - MongoDB Database, SQL vs NoSQL 
+ 5 - General Guide to Installing Tools on OS 
+ 6 - Install MongoDB on MacOS 
+ 7 - Install MongoDB on Windows 
+ 8 - General Guide to Connecting Applications to Database 
+ 9 - Connect Teamable Backend to MongoDB Part 1 
+ 10 - Connect Teamable Backend to MongoDB Part 2 
+ 1 - Chapter Intro 
+ 2 - Test Automation Explained
+ 3 - Automated Test Types Explained
+ 4 - Write Unit Tests in Jest for Teamable app 
+ 5 - Write Integration Tests in Jest for Teamable app 
+ 1 - Chapter Intro 
+ 2 - Build & Package Teamable Application 
+ 3 - Running Application from Package/Artifact 
+ 1 - Chapter Intro
+ 2 - Server Basics Explained
+ 3 - Systems Administrator Role Explained 
+ 4 - Create Linux Ubuntu Server on Cloud 
+ 5 - SSH into Cloud Server from MacOS 
+ 6 - SSH into Cloud Server from Windows
+ 7 - Secure Server with Firewall 
+ 8 - Configure Linux Ubuntu Server 
+ 9 - Deploy Application on Linux Server 
+ 10 - Deployment Stages Explained 
+ 11 - Development & Deployment Workflow Explained 
+ 1 - Complete Sprint in Jira 
+ 2 - Secure MongoDB Database Access 
+ 3 - Configure Database Access with Credentials in Backend Application 
+ 4 - Configure Access to Environment Variables in Backend Application 
+ 1 - Next Steps - Where to go from here? 
+
+Visit: FreeCoursesOnline.Me
